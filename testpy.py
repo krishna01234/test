@@ -1,1 +1,1 @@
-printe "heloo from python"
+print "heloo from python"
